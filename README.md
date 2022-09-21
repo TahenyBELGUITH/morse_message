@@ -37,16 +37,13 @@ Simple decoder for Morse messages.
 - GitHub: [@NickEmma](https://github.com/NickEmma)
 - Twitter: [@techieEmma](https://twitter.com/techieEmma)
 - LinkedIn: [@Nicholas Emmanuel](https://www.linkedin.com/in/techieemma/)
-<<<<<<< HEAD
-
 
 👤 **Taheny BELGUITH**
-=======
->>>>>>> 1db76a0e7a6ffafaf21a0c4872a46b997a31ed41
 
-- GitHub: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
+- Twitter: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
 - Twitter: [@BelguithTaheny](https://twitter.com/BelguithTaheny)
 - LinkedIn: [@belguith taheny](https://www.linkedin.com/in/belguith-taheny/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
