@@ -29,4 +29,4 @@ end
 puts decode_char('.-')
 puts decode_word('-- -.--')
 puts decode_word('-- -.--   -. .- -- .')
-puts decode_result(".- -... --- -..- ..-. ..- .-.. .-.. --- ..-. .-. ..- -... .. . ...")
+puts decode_result('.- -... --- -..- ..-. ..- .-.. .-.. --- ..-. .-. ..- -... .. . ...')
