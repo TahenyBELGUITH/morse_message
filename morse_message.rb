@@ -20,13 +20,13 @@ end
 
 def decode_result(str)
   result = ''
-  str.split.each do |word|
+  str.split('  ').each do |word|
     result += decode_word(word)
+    result += ' '
   end
   result
 end
 
-puts decode_char('.-')
-puts decode_word('-- -.--')
-puts decode_word('-- -.--   -. .- -- .')
+puts decode_result('-- -.--  -. .- -- .')
+puts decode_result('.-  -... --- -..-  ..-. ..- .-.. .-..  --- ..-.  .-. ..- -... .. . ...')
 puts decode_result('.- -... --- -..- ..-. ..- .-.. .-.. --- ..-. .-. ..- -... .. . ...')
