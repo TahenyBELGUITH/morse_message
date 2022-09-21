@@ -20,7 +20,7 @@ end
 
 def decode_result(str)
   result = ''
-  str.split(//).each do |word|
+  str.split.each do |word|
     result += decode_word(word)
   end
   result
